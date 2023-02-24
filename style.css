@@ -1,0 +1,27 @@
+body{
+    color: aliceblue;
+    background-color: black;
+    text-align: left;
+    font-size: medium;
+    background-image:url(Juvella_Pepperoni.jpg);
+    background-size: cover;
+    opacity: 1;
+   
+    font-size: larger;
+    font-weight: bolder;
+    height: 100%;
+ }
+
+.pform{
+    border: 100px*100px;
+
+}
+
+
+
+h1{
+    font-size: 100px;
+}
+h2{
+    font-size: 100px;
+}
